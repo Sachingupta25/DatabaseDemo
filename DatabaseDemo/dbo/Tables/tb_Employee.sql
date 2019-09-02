@@ -3,7 +3,8 @@
 	[ID] INT NOT NULL PRIMARY KEY, 
     [Name] NCHAR(100) NULL, 
     [Address] NCHAR(500) NULL, 
-    [City] NCHAR(100) NULL
+    [City] NCHAR(100) NULL,
+	[Mobile] INT NULL
     
 )
 
