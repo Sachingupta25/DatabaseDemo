@@ -66,4 +66,7 @@
   <ItemGroup>
     <RefactorLog Include="DatabaseDemo.refactorlog" />
   </ItemGroup>
+  <ItemGroup>
+    <PreDeploy Include="dbo\Script.PreDeployment1.sql" />
+  </ItemGroup>
 </Project>

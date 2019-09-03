@@ -4,7 +4,7 @@
     [Name] NVARCHAR(100) NULL, 
     [Address] NVARCHAR(500) NULL, 
     [City] NVARCHAR(100) NULL,
-	--[Mobile] NVARCHAR(11) NULL
+	[Mobile] NVARCHAR(11) NULL
 )
 
 GO
